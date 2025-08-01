@@ -14,11 +14,6 @@
 ## Demo Video Link:
   https://drive.google.com/drive/u/2/folders/1EpELL-YNX2qfm1dLcSCe8jTvcb5mVnes
   
-## Presentation Link:
-  <a href="https://www.canva.com/design/DAFeQYF30IE/ZbmTeUYYwamX7R4NWjSiSA/view?utm_content=DAFeQYF30IE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">View Presentation</a>
-
-  <a href="https://www.canva.com/design/DAFpdrqhBX8/qLznwLuYCKNZPMHdqHtxKg/view?utm_content=DAFpdrqhBX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Presentation 2</a>
-  
   
 ## Table of Contents:
 
@@ -28,15 +23,3 @@
   3) Chrome Extension
   4) Tailwind CSS
   5) Crypto
-  
-
-## Contributors:
-
-Team Name: BRACKETS
-
-* [Sahil Gupta](https://github.com/Sahilguptaaa)
-* [Prakhar Rohra](https://github.com/Prakharrohra)
-
-
-### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
